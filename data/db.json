@@ -1,0 +1,22 @@
+{
+	"blogs": [
+		{
+			"title": "M1",
+			"body": "hello from Apple Silicone M1",
+			"author": "stasia",
+			"id": 3
+		},
+		{
+			"title": "Sasha",
+			"body": "Sasha on Apple",
+			"author": "sasha",
+			"id": 5
+		},
+		{
+			"title": "Stasia",
+			"body": "Stasia on iMac",
+			"author": "sasha",
+			"id": 6
+		}
+	]
+}
